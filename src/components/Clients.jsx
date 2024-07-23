@@ -8,46 +8,22 @@ export default function Clients() {
         </div>
         <div className="my-10 flex justify-between items-center px-56 ">
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-1.png"
-              alt="Company 1 logo"
-            />
+            <img width={40} src="/logo-company-1.png" alt="Company 1 logo" />
           </a>
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-2.png"
-              alt="Company 2 logo"
-            />
+            <img width={40} src="/logo-company-2.png" alt="Company 2 logo" />
           </a>
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-3.png"
-              alt="Company 3 logo"
-            />
+            <img width={40} src="/logo-company-3.png" alt="Company 3 logo" />
           </a>
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-4.png"
-              alt="Company 4 logo"
-            />
+            <img width={40} src="/logo-company-4.png" alt="Company 4 logo" />
           </a>
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-5.png"
-              alt="Company 5 logo"
-            />
+            <img width={40} src="/logo-company-5.png" alt="Company 5 logo" />
           </a>
           <a href="#">
-            <img
-              width={40}
-              src="../../public/logo-company-6.png"
-              alt="Company 6 logo"
-            />
+            <img width={40} src="/logo-company-6.png" alt="Company 6 logo" />
           </a>
         </div>
       </div>

@@ -11,17 +11,17 @@ export default function Community() {
       </div>
       <div className="flex mt-10">
         <Card
-          image="../../public/mem1.png"
+          image="/mem1.png"
           primaryText="Membership Organization"
           secondaryText="Our membership management software provides full automation of membership renewals and payments"
         />
         <Card
-          image="../../public/mem2.png"
+          image="/mem2.png"
           primaryText="National Associations"
           secondaryText="Our membership management software provides full automation of membership renewals and payments"
         />
         <Card
-          image="../../public/mem3.png"
+          image="/mem3.png"
           primaryText="Clubs And Groups"
           secondaryText="Our membership management software provides full automation of membership renewals and payments"
         />

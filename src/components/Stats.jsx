@@ -14,7 +14,7 @@ export default function Stats() {
           <div className="grid grid-cols-2 items-center justify-center">
             <img
               width={80}
-              src="/public/member.png"
+              src="/member.png"
               alt="Members"
               className="row-span-2"
             />
@@ -24,7 +24,7 @@ export default function Stats() {
           <div className="grid grid-cols-2 items-center justify-center">
             <img
               width={80}
-              src="/public/Clubn.png"
+              src="/Clubn.png"
               alt="Members"
               className="row-span-2"
             />
@@ -34,7 +34,7 @@ export default function Stats() {
           <div className="grid grid-cols-2 items-center justify-center">
             <img
               width={80}
-              src="/public/bookings.png"
+              src="/bookings.png"
               alt="Members"
               className="row-span-2"
             />
@@ -44,7 +44,7 @@ export default function Stats() {
           <div className="grid grid-cols-2 items-center justify-center">
             <img
               width={80}
-              src="/public/payment.png"
+              src="/payment.png"
               alt="Members"
               className="row-span-2"
             />
